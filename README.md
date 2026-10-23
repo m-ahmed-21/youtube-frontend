@@ -24,8 +24,8 @@ This repository contains a collection of HTML and CSS files, primarily focusing 
 
 ## Project Title & Badges 🏆
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
+![HTML](https://img.shields.io/badge/HTML-93-orange)
+![CSS](https://img.shields.io/badge/CSS-12-blue)
 
 ## Description 📝
 
@@ -44,8 +44,6 @@ This project is a static front-end implementation of the YouTube website. It was
 
 *   **HTML:** For structuring the web content.
 *   **CSS:** For styling and layout.
-
-*Note: While the analysis mentions TypeScript, Next.js, Python, and Bootstrap, these do not appear to be directly used or are remnants of broader course material not fully integrated into this specific frontend project. The core implementation relies purely on HTML and CSS.* 
 
 ## Project Structure 📂
 
@@ -196,42 +194,15 @@ This project consists of static HTML and CSS files. There are no complex install
     ```
 3.  **Open any HTML file** (e.g., `youtube.html` or any file within `practice-exercises/`) in your web browser.
 
-## Usage 🧑‍💻
-
-This project is designed for educational purposes, showcasing various front-end development techniques. You can use it to:
-
-*   **Learn HTML Structure:** Understand how different HTML elements are used to build web pages.
-*   **Master CSS Layouts:** Study examples of Flexbox (`flexbox.html`, `practice-exercises/12a.html`, etc.) and CSS Grid (`grid.html`, `practice-exercises/11a.html`, etc.) for creating responsive designs.
-*   **Explore Styling Techniques:** Analyze how CSS is used for typography, button styling, form elements, and component design.
-*   **Replicate UI Components:** Examine how the `youtube.html` file reconstructs the YouTube interface, including the header, sidebar, and video feed.
-
 ## How to Use 💡
 
 Simply open any of the `.html` files in your web browser to view the examples. The `youtube.html` file provides a comprehensive example of a YouTube-like interface.
 
 **Example:** To view the full YouTube clone, open `youtube.html` in your browser.
 
-## Contributing 🤝
-
-As this project is primarily for educational purposes and consists of static code examples, contributions are welcome. If you find any errors, have suggestions for improvement, or want to add more examples, feel free to:
-
-1.  **Fork the repository.**
-2.  **Create a new branch:** `git checkout -b feature/your-feature-name`
-3.  **Make your changes.**
-4.  **Commit your changes:** `git commit -m 'Add some feature'`
-5.  **Push to the branch:** `git push origin feature/your-feature-name`
-6.  **Open a Pull Request.**
-
-Please ensure your contributions adhere to the project's focus on HTML and CSS fundamentals.
-
-## License 📜
-
-This project is not currently under any specified license. Please refer to the GitHub repository for the most up-to-date information.
-
 ## Important Links 🔗
 
 *   **Repository:** [https://github.com/m-ahmed-21/youtube-frontend](https://github.com/m-ahmed-21/youtube-frontend)
-*   **Live Demo:** *(Not available, as this is a static front-end project)*
 
 ## Footer 📝
 
@@ -239,7 +210,7 @@ This project is not currently under any specified license. Please refer to the G
 
 --- 
 
-*This project was created as a learning exercise. Feel free to fork, star, and explore the codebase. If you find it helpful, please consider giving it a star!* ⭐
+*This project was created as a frontend development learning exercise.*
 
 
 ---
